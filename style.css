@@ -17,12 +17,7 @@ h1{
     color: rgb(9, 126, 58);
 }
 
-p{
-    background-color: green;
-    margin-left: 30%;
-    margin-right: 30%;
-    padding: 2%;
-}
+
 
 .super-mega-rosso-cool{
     background-color: red;
@@ -40,3 +35,16 @@ p{
     text-align: left;
     font-size: xx-large;
 }
+
+.container{
+    display: flex;
+    background-color: chartreuse;
+}
+
+.container2{
+    background-color:blueviolet;
+}
+
+
+
+
